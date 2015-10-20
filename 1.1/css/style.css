@@ -1,6 +1,6 @@
 /*#00a1e1*/
-.box-absolute-center{    position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index:10; text-align:center;   -webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;transition:all 0.2s ease-out; }
-.absolute-center{    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index:10; text-align:center;   -webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;transition:all 0.2s ease-out; }
+.box-absolute-center{    position: fixed; top: 50%; left: 50%; -ms-transform: translate(-50%,-50%); /* IE 9 */ -webkit-transform: translate(-50%,-50%); /* Safari */ transform: translate(-50%, -50%); z-index:10; text-align:center;   -webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;transition:all 0.2s ease-out; }
+.absolute-center{    position: absolute; top: 50%; left: 50%; -ms-transform: translate(-50%,-50%); /* IE 9 */ -webkit-transform: translate(-50%,-50%); /* Safari */ transform: translate(-50%, -50%); z-index:10; text-align:center;   -webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;transition:all 0.2s ease-out; }
 a{ color:#00a1e1; text-decoration: none; width: auto;}
 a:hover{ color:#00a1e1; text-decoration: underline; }
 .col-12{ position:relative; float:left; width:100%; }
@@ -335,7 +335,7 @@ left
 #maschera.show{-webkit-transition:all 0.218s;-moz-transition:all 0.218s;-ms-transition:all 0.218s;-o-transition:all 0.218s;transition:all 0.218s;visibility:visible;/* padding: 16px; */background-color:rgba(5, 5, 5, 0.65);overflow-y:yes;}
 #maschera.show.photo{ -webkit-transition:all 0s; -moz-transition:all 0s;-ms-transition:all 0s;-o-transition:all 0s;transition:all 0s;  background-color:rgba(5, 5, 5, 0.85);}
 #maschera.show.photo img{     box-shadow: 0 4px 80px 6px rgba(0, 0, 0, .85); border-radius:4px; }
-#maschera #windows{ -webkit-transition:all 0s; -moz-transition:all 0s;-ms-transition:all 0s;-o-transition:all 0s;transition:all 0s;  z-index:2222222223333333333333333333333323232323233333;background-color:white;box-shadow:0px 0px 14px rgba(50, 50, 50, 0.45); background-image: url(/loading3.gif); z-index:99;  background-position: center ; background-repeat: no-repeat;    background-size:24px; -moz-border-radius:4px;-webkit-border-radius:4px; text-align:left; padding:24px; width:0; height:0; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+#maschera #windows{ -webkit-transition:all 0s; -moz-transition:all 0s;-ms-transition:all 0s;-o-transition:all 0s;transition:all 0s;  z-index:2222222223333333333333333333333323232323233333;background-color:white;box-shadow:0px 0px 14px rgba(50, 50, 50, 0.45); background-image: url(/loading3.gif); z-index:99;  background-position: center ; background-repeat: no-repeat;    background-size:24px; -moz-border-radius:4px;-webkit-border-radius:4px; text-align:left; padding:24px; width:0; height:0; position: fixed; top: 50%; left: 50%; -ms-transform: translate(-50%,-50%); /* IE 9 */ -webkit-transform: translate(-50%,-50%); /* Safari */ transform: translate(-50%, -50%); }
 #maschera #windows header{ width:100%; background:none; left:0; top:0; height:auto; padding-bottom:24px; font-size:28px;box-shadow: none;text-align: left;padding: 0;margin: 0;}
 #maschera #windows header h2{ color:#555555; }
 #maschera #windows header h3{ color:#555555; }
@@ -661,10 +661,10 @@ img.noCover{ -webkit-transition:all 0.260s;-moz-transition:all 0.260s;-ms-transi
       bottom: 0;
       width: 100%;
       height:100%;
-      border:none; 
+      border:none;
       object-fit: contain !important; /* Do not scale the image */
       object-position: containcontain !important; /* Center the image within the element */
-} 
+}
 .card {
   position: relative;
   overflow: hidden;
@@ -801,7 +801,7 @@ img.noCover{ -webkit-transition:all 0.260s;-moz-transition:all 0.260s;-ms-transi
 }
 .card .card-interaction button{
     font-size:14px;
-    /* width:50%; */ 
+    /* width:50%; */
     font-weight:bold;
     padding: 0 10px;
     border:none;
@@ -935,7 +935,7 @@ div.goToBack{
  background-image:url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_right_white_24dp_2x.png);
  background-color:rgba(0,0,0,0.3);
 }
-div.goToBack:hover,div.goToNext:hover{    
+div.goToBack:hover,div.goToNext:hover{
   opacity:1;
 }
 
@@ -1010,7 +1010,7 @@ button.payNow{
       width:100% !important;
     }
     .card.w50{ width:100% !important; margin-bottom:16px;}
-    
+
     .panelInput .label{ width:100%; padding:0; margin:0; line-height:28px; font-size:13px; color:rgba(0,0,0,.46); }
     .panelInput .input{ width:100%; padding:0; }
     .panelInput input[type="text"], .panelInput input[type="password"], .panelInput input[type="email"], .panelInput input[type="number"], .panelInput input[type="date"], .panelInput select, .panelInput textarea{  float:left;  font-size: 17px; width:100%;  height: 36px;border:none;  border: none; border-bottom:1px solid #dddddd;  background-color: transparent !important; padding-left:0px;  border-radius:0px;color: black;/* border: none; *//* background: none; *//* border-bottom: 1px solid #dddddd; */}
