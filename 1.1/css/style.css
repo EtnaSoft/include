@@ -299,7 +299,7 @@ input + .ic:hover, textarea + .ic:hover{ opacity:1; }
 .ic-instagram-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/instagram-b.png);   }
 .ic-youtube-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/youtube-b.png);   }
 
-.ic-whatsapp-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/whatsapp-b.png);   }
+.ic-whatsapp-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/whatsapp-b.png);   }                       
 
 
 #pie .ic{ opacity:0.57; }
