@@ -191,115 +191,115 @@ input.ic-left, .input.ic-left{ background-position: left 10px center;  padding-l
 .ic.opacity{  opacity:0.56; }
 .ic.opacity:hover{  opacity:1; }
 .ic-loading{ background-image:  url(/loading3.gif); }
-.ic-mail{ background-image:  url(http://jq.etnaportal.it/include/icons/ic_mail_white_24dp_1x.png); }
-.ic-mail-b{ background-image:  url(http://jq.etnaportal.it/include/icons/ic_email_black_24dp_1x.png); }
-.ic-like-b{ background-image:  url(http://jq.etnaportal.it/include/icons/ic_favorite_black_36dp.png); }
-.ic-sent{ background-image:  url(http://jq.etnaportal.it/include/icons/ic_send_white_24dp_1x.png); }
-.ic-move-b{ background-image:  url(http://jq.etnaportal.it/include/icons/ic_swap_vert_black_24dp_2x.png); }
-.ic-star-b{ background-image:  url(http://jq.etnaportal.it/include/icons/ic_star_border_black_24dp.png); }
-.ic-star-b.sel{ background-image:  url(http://jq.etnaportal.it/include/icons/ic_star_black_24dp_1x.png); }
-.ic-new { background-image:  url(http://jq.etnaportal.it/include/icons/ic_add_white_24dp.png); }
-.ic-new-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_add_black_18dp.png); }
-.ic-edit { background-image:  url(http://jq.etnaportal.it/include/icons/ic_mode_edit_white_24dp.png); }
-.ic-view { background-image:  url(http://jq.etnaportal.it/include/icons/ic_remove_red_eye_white_24dp_1x.png); }
-.ic-write { background-image:  url(http://jq.etnaportal.it/include/icons/ic_create_white_24dp_2x.png); }
-.ic-maps { background-image:  url(http://jq.etnaportal.it/include/icons/ic_map_white_24dp.png); }
-.ic-search { background-image:  url(http://jq.etnaportal.it/include/icons/ic_search_white_24dp_2x.png); }
-.ic-search-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_search_black_24dp_2x.png); }
-.ic-cart { background-image:  url(http://jq.etnaportal.it/include/icons/ic_shopping_cart_white_24dp.png); }
-.ic-setting { background-image:  url(http://jq.etnaportal.it/include/icons/ic_settings_white_24dp.png); }
-.ic-menu { background-image:  url(http://jq.etnaportal.it/include/icons/ic_menu_white_2x.png); }
-.ic-menu-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_menu_black_48dp_2x.png); }
-.ic-upload { background-image:  url(http://jq.etnaportal.it/include/icons/ic_file_upload_white_24dp_2x.png); }
-.ic-setting-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_settings_black_24dp.png); }
-.ic-computer-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_computer_black_24dp_1x.png); background-size:16px; }
-.ic-android-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_android_black_24dp_1x.png); background-size:16px; }
-.ic-date,.ic-Date { background-image:  url(http://jq.etnaportal.it/include/icons/ic_today_white_24dp.png); }
-.ic-date-b,.ic-Date-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_today_black_24dp.png); }
-.ic-auto-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_directions_car_black_24dp_1x.png); }
-.ic-bici-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_directions_bike_black_24dp_1x.png); }
-.ic-piedi-b { background-image:  url(http://jq.etnaportal.it/include/icons/ic_directions_walk_black_18dp.png); }
-.ic-close { cursor:pointer; background-image:  url(http://jq.etnaportal.it/include/icons/ic_close_white_24dp_2x.png); }
-.ic-fullscreen { cursor:pointer; background-image:  url(http://jq.etnaportal.it/include/icons/ic_fullscreen_white_24dp_2x.png); }
-.ic-share { cursor:pointer; background-image:  url(http://jq.etnaportal.it/include/icons/ic_share_white_24dp_1x.png);  background-size:70%;}
-.ic-share-b { cursor:pointer; background-image:  url(http://jq.etnaportal.it/include/icons/ic_share_black_24dp.png);  background-size:70%;}
-.ic-fullscreenExit { cursor:pointer; background-image:  url(http://jq.etnaportal.it/include/icons/ic_fullscreen_exit_white_24dp_2x.png); }
-.ic-location {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_location_on_white_24dp.png); }
-.ic-locationCity-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_location_city_black_24dp_1x.png); }
-.ic-arrow-bottom {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_down_white_18dp.png);  background-size:100%;  background-position: 114px right ; }
-.ic-arrow-bottom-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_down_black_24dp_1x.png);  background-size:100%;  background-position: 114px right ; }
-.ic-arrow-top {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_up_white_18dp.png);  background-size:100%; }
-.ic-filter {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_filter_list_white_24dp.png);   }
-.ic-filter-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_filter_list_black_24dp.png);   }
-.ic-time {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_alarm_black_24dp.png);   }
-.ic-time-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_alarm_black_24dp.png);   }
-.ic-exit {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_exit_to_app_white_24dp_2x.png);   }
-.ic-exit-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_exit_to_app_black_24dp_2x.png);   }
-.ic-user-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_person_black_24dp.png);   }
-.ic-user {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_person_white_24dp_2x.png);   }
-.ic-lock {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_lock_white_24dp_2x.png);   }
-.ic-lock-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_lock_black_24dp_2x.png);   }
-.ic-home {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_home_white_24dp_2x.png);   }
-.ic-home-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_home_black_24dp_2x.png);   }
-.ic-ok {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_done_white_18dp.png);   }
-.ic-delete {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_delete_white_2x.png);   }
-.ic-delete-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_delete_black_24dp_1x.png);   }
-.ic-price-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_attach_money_black_24dp_1x.png);   }
-.ic-price {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_attach_money_white_24dp_1x.png);   }
-.ic-shipping {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_local_shipping_white_24dp_1x.png);   }
-.ic-shipping-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_local_shipping_black_24dp_1x.png);   }
+.ic-mail{ background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_mail_white_24dp_1x.png); }
+.ic-mail-b{ background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_email_black_24dp_1x.png); }
+.ic-like-b{ background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_favorite_black_36dp.png); }
+.ic-sent{ background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_send_white_24dp_1x.png); }
+.ic-move-b{ background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_swap_vert_black_24dp_2x.png); }
+.ic-star-b{ background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_star_border_black_24dp.png); }
+.ic-star-b.sel{ background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_star_black_24dp_1x.png); }
+.ic-new { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_add_white_24dp.png); }
+.ic-new-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_add_black_18dp.png); }
+.ic-edit { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_mode_edit_white_24dp.png); }
+.ic-view { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_remove_red_eye_white_24dp_1x.png); }
+.ic-write { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_create_white_24dp_2x.png); }
+.ic-maps { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_map_white_24dp.png); }
+.ic-search { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_search_white_24dp_2x.png); }
+.ic-search-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_search_black_24dp_2x.png); }
+.ic-cart { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_shopping_cart_white_24dp.png); }
+.ic-setting { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_settings_white_24dp.png); }
+.ic-menu { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_menu_white_2x.png); }
+.ic-menu-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_menu_black_48dp_2x.png); }
+.ic-upload { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_file_upload_white_24dp_2x.png); }
+.ic-setting-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_settings_black_24dp.png); }
+.ic-computer-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_computer_black_24dp_1x.png); background-size:16px; }
+.ic-android-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_android_black_24dp_1x.png); background-size:16px; }
+.ic-date,.ic-Date { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_today_white_24dp.png); }
+.ic-date-b,.ic-Date-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_today_black_24dp.png); }
+.ic-auto-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_directions_car_black_24dp_1x.png); }
+.ic-bici-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_directions_bike_black_24dp_1x.png); }
+.ic-piedi-b { background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_directions_walk_black_18dp.png); }
+.ic-close { cursor:pointer; background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_close_white_24dp_2x.png); }
+.ic-fullscreen { cursor:pointer; background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_fullscreen_white_24dp_2x.png); }
+.ic-share { cursor:pointer; background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_share_white_24dp_1x.png);  background-size:70%;}
+.ic-share-b { cursor:pointer; background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_share_black_24dp.png);  background-size:70%;}
+.ic-fullscreenExit { cursor:pointer; background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_fullscreen_exit_white_24dp_2x.png); }
+.ic-location {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_location_on_white_24dp.png); }
+.ic-locationCity-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_location_city_black_24dp_1x.png); }
+.ic-arrow-bottom {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_down_white_18dp.png);  background-size:100%;  background-position: 114px right ; }
+.ic-arrow-bottom-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_down_black_24dp_1x.png);  background-size:100%;  background-position: 114px right ; }
+.ic-arrow-top {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_up_white_18dp.png);  background-size:100%; }
+.ic-filter {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_filter_list_white_24dp.png);   }
+.ic-filter-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_filter_list_black_24dp.png);   }
+.ic-time {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_alarm_black_24dp.png);   }
+.ic-time-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_alarm_black_24dp.png);   }
+.ic-exit {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_exit_to_app_white_24dp_2x.png);   }
+.ic-exit-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_exit_to_app_black_24dp_2x.png);   }
+.ic-user-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_person_black_24dp.png);   }
+.ic-user {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_person_white_24dp_2x.png);   }
+.ic-lock {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_lock_white_24dp_2x.png);   }
+.ic-lock-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_lock_black_24dp_2x.png);   }
+.ic-home {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_home_white_24dp_2x.png);   }
+.ic-home-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_home_black_24dp_2x.png);   }
+.ic-ok {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_done_white_18dp.png);   }
+.ic-delete {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_delete_white_2x.png);   }
+.ic-delete-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_delete_black_24dp_1x.png);   }
+.ic-price-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_attach_money_black_24dp_1x.png);   }
+.ic-price {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_attach_money_white_24dp_1x.png);   }
+.ic-shipping {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_local_shipping_white_24dp_1x.png);   }
+.ic-shipping-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_local_shipping_black_24dp_1x.png);   }
 
-.ic-wifi {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_wifi_white_24dp_1x.png);   }
-.ic-parking {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_local_parking_white_24dp_1x.png);   }
-.ic-spa {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_filter_list_white_24dp.png);   }
-.ic-disabili {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_accessibility_white_24dp.png);   }
-.ic-colazione {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_local_cafe_white_24dp_1x.png);   }
-.ic-swim {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_swim_white_24.png);   }
-.ic-fish {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_fish_white_24.png);   }
-.ic-vegetariano {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_vegetariano_white_24.png);   }
+.ic-wifi {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_wifi_white_24dp_1x.png);   }
+.ic-parking {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_local_parking_white_24dp_1x.png);   }
+.ic-spa {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_filter_list_white_24dp.png);   }
+.ic-disabili {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_accessibility_white_24dp.png);   }
+.ic-colazione {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_local_cafe_white_24dp_1x.png);   }
+.ic-swim {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_swim_white_24.png);   }
+.ic-fish {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_fish_white_24.png);   }
+.ic-vegetariano {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_vegetariano_white_24.png);   }
 
-.ic-wifi-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_wifi_black_24dp_1x.png);   }
-.ic-parking-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_local_parking_black_24dp_1x.png);   }
-.ic-spa-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_filter_list_black_24dp.png);   }
-.ic-disabili-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_accessibility_black_24dp.png);   }
-.ic-colazione-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_local_cafe_black_24dp_1x.png);   }
-.ic-swim-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_swim_black_24.png);   }
-.ic-fish-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_fishblack_24.png);   }
-.ic-vegetariano-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_vegetariano_black_24.png);   }
+.ic-wifi-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_wifi_black_24dp_1x.png);   }
+.ic-parking-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_local_parking_black_24dp_1x.png);   }
+.ic-spa-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_filter_list_black_24dp.png);   }
+.ic-disabili-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_accessibility_black_24dp.png);   }
+.ic-colazione-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_local_cafe_black_24dp_1x.png);   }
+.ic-swim-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_swim_black_24.png);   }
+.ic-fish-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_fishblack_24.png);   }
+.ic-vegetariano-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_vegetariano_black_24.png);   }
 
 
-.ic-bold-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_bold_black_18dp_2x.png);   }
-.ic-italic-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_italic_black_18dp_2x.png);   }
-.ic-underline-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_underlined_black_18dp_2x.png);   }
-.ic-strikethrough-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_strikethrough_black_18dp_2x.png);   }
-.ic-align-left-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_align_left_black_18dp_1x.png);   }
-.ic-align-center-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_align_center_black_18dp_1x.png);   }
-.ic-align-right-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_align_right_black_18dp_1x.png);   }
-.ic-list-ul-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_list_bulleted_black_18dp_1x.png);   }
-.ic-list-ol-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_format_list_numbered_black_18dp_1x.png);   }
-.ic-link-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_insert_link_black_18dp_1x.png);   }
-.ic-image-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_insert_photo_black_18dp_1x.png);   }
-.ic-translation-b {  background-image:  url(http://jq.etnaportal.it/include/icons/ic_translate_black_24dp_1x.png);   }
+.ic-bold-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_bold_black_18dp_2x.png);   }
+.ic-italic-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_italic_black_18dp_2x.png);   }
+.ic-underline-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_underlined_black_18dp_2x.png);   }
+.ic-strikethrough-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_strikethrough_black_18dp_2x.png);   }
+.ic-align-left-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_align_left_black_18dp_1x.png);   }
+.ic-align-center-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_align_center_black_18dp_1x.png);   }
+.ic-align-right-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_align_right_black_18dp_1x.png);   }
+.ic-list-ul-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_list_bulleted_black_18dp_1x.png);   }
+.ic-list-ol-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_format_list_numbered_black_18dp_1x.png);   }
+.ic-link-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_insert_link_black_18dp_1x.png);   }
+.ic-image-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_insert_photo_black_18dp_1x.png);   }
+.ic-translation-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_translate_black_24dp_1x.png);   }
 
 input + .ic,textarea + .ic{ opacity:0.57; cursor:pointer; position:absolute; top: 12px; margin-top:11px; right:6px; z-index: 9;}
 input + .ic:hover, textarea + .ic:hover{ opacity:1; }
 .panelInput input.translation, .panelInput textarea.translation{ padding-right:34px; }
 
 
-.ic-flag-italy {  background-image:  url(http://jq.etnaportal.it/include/icons/flag/Italy.png);   }
-.ic-flag-england {  background-image:  url(http://jq.etnaportal.it/include/icons/flag/UK.png);   }
-.ic-flag-france {  background-image:  url(http://jq.etnaportal.it/include/icons/flag/France.png);   }
-.ic-flag-germany {  background-image:  url(http://jq.etnaportal.it/include/icons/flag/Germany.png);   }
+.ic-flag-italy {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/flag/Italy.png);   }
+.ic-flag-england {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/flag/UK.png);   }
+.ic-flag-france {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/flag/France.png);   }
+.ic-flag-germany {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/flag/Germany.png);   }
 .ic-language{ cursor:pointer; opacity: 0.27; }
 .ic-language.sel,.ic-language:hover{ cursor:dafault; opacity:1; }
 
-.ic-facebook-b {  background-image:  url(http://jq.etnaportal.it/include/icons/social/facebook-b.png);   }
-.ic-google-b {  background-image:  url(http://jq.etnaportal.it/include/icons/social/google-plus-b.png);   }
-.ic-twitter-b {  background-image:  url(http://jq.etnaportal.it/include/icons/social/twitter-b.png);   }
-.ic-instagram-b {  background-image:  url(http://jq.etnaportal.it/include/icons/social/instagram-b.png);   }
-.ic-youtube-b {  background-image:  url(http://jq.etnaportal.it/include/icons/social/youtube-b.png);   }
+.ic-facebook-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/facebook-b.png);   }
+.ic-google-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/google-plus-b.png);   }
+.ic-twitter-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/twitter-b.png);   }
+.ic-instagram-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/instagram-b.png);   }
+.ic-youtube-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/youtube-b.png);   }
 
-.ic-whatsapp-b {  background-image:  url(http://jq.etnaportal.it/include/icons/social/whatsapp-b.png);   }
+.ic-whatsapp-b {  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/social/whatsapp-b.png);   }
 
 
 #pie .ic{ opacity:0.57; }
@@ -552,7 +552,7 @@ img.previewUpload.complete{ -webkit-transition:0.260s; transition: 0.260s; opaci
 .breadcrumb{    clear:both; width:100%; float:left; padding:8px;}
 .breadcrumb span{ cursor:default; }
 .breadcrumb span, .breadcrumb a{  font-size:15px;    float:left;}
-.breadcrumb div.separator{  color:rgba(0,0,0,0.4);  cursor:default;  width:13px;  height:13px;  float:left;  margin: 3px 2px 0 2px;  opacity:0.4;  background-image:  url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_right_2x.png);  background-position:  center;  background-repeat: no-repeat;  background-size:100%;}
+.breadcrumb div.separator{  color:rgba(0,0,0,0.4);  cursor:default;  width:13px;  height:13px;  float:left;  margin: 3px 2px 0 2px;  opacity:0.4;  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_right_2x.png);  background-position:  center;  background-repeat: no-repeat;  background-size:100%;}
 .breadcrumb div.home{ color:rgba(0,0,0,0.4);cursor:default;  width:13px; height:13px;  float:left; margin:3px 2px 0 2px; opacity:0.5; background-image:  url(/css/images/ic_arrow_right.png);   background-position:  center;  background-repeat: no-repeat; background-size:100%;}
 
 .panelPhoto{ float:left;  width: 20%; padding-bottom: 20%; cursor:pointer; position:relative; display:block; overflow: hidden; }
@@ -581,7 +581,7 @@ img.previewUpload.complete{ -webkit-transition:0.260s; transition: 0.260s; opaci
 .panelServizi ul li input[type="radio"]  + span {    display:inline-block;    width:19px;    height:19px;    margin:-1px 4px 0 0;    vertical-align:middle;    background:#dddddd;    border-radius:400px;  cursor:pointer; }
 .panelServizi ul li input[type="checkbox"]  + span {    display:inline-block;    width:19px;    height:19px;    margin:-1px 4px 0 0;    vertical-align:middle;    background: #eeeeee;    border-radius: 4px;    cursor:pointer; }
 .panelServizi ul li:hover input[type="checkbox"]  + span ,.panelServizi ul li:hover input[type="radio"]  + span { background:#cccccc; }
-.panelServizi ul li input[type="checkbox"]:checked + span,.panelServizi ul li input[type="radio"]:checked + span { background-color:#09d262; background-image: url(http://jq.etnaportal.it/include/icons/ic_done_white_18dp.png);  background-image:  url(http://jq.etnaportal.it/include/icons/ic_done_white_18dp.png); z-index:99;  background-position:center ;  background-repeat: no-repeat; background-size:80%; }
+.panelServizi ul li input[type="checkbox"]:checked + span,.panelServizi ul li input[type="radio"]:checked + span { background-color:#09d262; background-image: url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_done_white_18dp.png);  background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_done_white_18dp.png); z-index:99;  background-position:center ;  background-repeat: no-repeat; background-size:80%; }
 
 
 
@@ -746,7 +746,7 @@ img.noCover{ -webkit-transition:all 0.260s;-moz-transition:all 0.260s;-ms-transi
   margin-top:12px;
   padding-left:26px;
   line-height:18px;
-   background-image:  url(http://jq.etnaportal.it/include/icons/ic_alarm_black_24dp.png);
+   background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_alarm_black_24dp.png);
    background-position:center left ; background-size:16px; background-repeat:no-repeat;
 }
 .card .card-opening.open {
@@ -820,15 +820,15 @@ img.noCover{ -webkit-transition:all 0.260s;-moz-transition:all 0.260s;-ms-transi
     line-height: 20px;
 }
 .card .card-interaction button.iWont{
-    background-image:  url(http://jq.etnaportal.it/include/icons/ic_directions_walk_black_18dp.png); z-index:99;  background-position:left 6px center;  background-repeat: no-repeat; background-size:16px; padding-left:30px;
+    background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_directions_walk_black_18dp.png); z-index:99;  background-position:left 6px center;  background-repeat: no-repeat; background-size:16px; padding-left:30px;
 
 }
 .card .card-interaction button.iBeenHere{
-    background-image:  url(http://jq.etnaportal.it/include/icons/ic_flag_black_18dp.png); z-index:99;  background-position:left 6px center;  background-repeat: no-repeat; background-size:16px; padding-left:30px;
+    background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_flag_black_18dp.png); z-index:99;  background-position:left 6px center;  background-repeat: no-repeat; background-size:16px; padding-left:30px;
 }
 
 .card .card-interaction button.iWont.sel, .card .card-interaction button.iBeenHere.sel{
-    background-image:  url(http://jq.etnaportal.it/include/icons/ic_done_green_18dp.png); z-index:99;  background-position: left  6px center ;  background-repeat: no-repeat; background-size:18px; padding-left:30px;
+    background-image:  url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_done_green_18dp.png); z-index:99;  background-position: left  6px center ;  background-repeat: no-repeat; background-size:18px; padding-left:30px;
     color:#4CAF50;
 }
 .card .card-interaction button.iWont.loading, .card .card-interaction button.iBeenHere.loading{
@@ -899,7 +899,7 @@ div.goToNext{
  width:64px;
  height:64px;
  z-index:9;
- background-image:url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_right_black_48dp_1x.png);
+ background-image:url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_right_black_48dp_1x.png);
  background-position:  center;
  background-repeat: no-repeat;
  background-size:80%;
@@ -919,7 +919,7 @@ div.goToBack{
  width:64px;
  height:64px;
  z-index: 109;
- background-image:url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_left_black_48dp_1x.png);
+ background-image:url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_left_black_48dp_1x.png);
  background-position:  center;
  background-repeat: no-repeat;
  background-size:80%;
@@ -928,11 +928,11 @@ div.goToBack{
 }
 
 #maschera div.goToBack{
- background-image:url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_left_white_24dp_2x.png);
+ background-image:url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_left_white_24dp_2x.png);
  background-color:rgba(0,0,0,0.3);
 }
 #maschera div.goToNext{
- background-image:url(http://jq.etnaportal.it/include/icons/ic_keyboard_arrow_right_white_24dp_2x.png);
+ background-image:url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_keyboard_arrow_right_white_24dp_2x.png);
  background-color:rgba(0,0,0,0.3);
 }
 div.goToBack:hover,div.goToNext:hover{
@@ -989,7 +989,7 @@ button.payNow{
 .listTrasporti.choose ul li:hover{ cursor:pointer; background:#eeeeee; }
 .listTrasporti.choose ul li.sel{ cursor:default; }
 .listTrasporti.choose ul li.sel:hover{ background:none; }
-.listTrasporti.choose ul li.sel .avatar{ background-color:#09d262; background-image: url(http://jq.etnaportal.it/include/icons/ic_done_white_18dp.png);     }
+.listTrasporti.choose ul li.sel .avatar{ background-color:#09d262; background-image: url(https://cdn.rawgit.com/EtnaSoft/include/master/icons/ic_done_white_18dp.png);     }
 .listTrasporti.choose ul li.sel .avatar img{ display:none; visibility:hidden;  }
 .listTrasporti.choose ul li .avatar img{ background:#dddddd;  }
 
