@@ -1,0 +1,41 @@
+@media print {
+  @page
+    {
+        width: 1000000mm;   /* auto is the initial value */
+         size: 15in 20in;  /* auto is the initial value */
+        margin: 12mm;  /* this affects the margin in the printer settings */
+    }
+    body {-webkit-print-color-adjust: exact; padding:16px;}
+    button, #pie, #header,.option,.menuOption,.breadcrumb,.MenuAdmin{
+      visibility:hidden !important;
+      display:none !important;
+    }
+
+    .pageWidth{
+      width:100% !important; max-width:none !important;
+    }
+    .PageAdmin,.panelAdmin .containerActionBar {
+      margin-left:0 !important; width:100% !important; max-width:none !important;
+    }
+
+    .no-print,.no-print * {
+      visibility:hidden !important;
+      display:none !important;
+    }
+    .only-print, .only-print *{
+      visibility:visible !important;
+      display:block !important;
+    }
+
+    .logo{
+      float:left;
+      margin:24px 0;
+    }
+    .col-10{
+      width:100% !important;
+    }
+    .headerMenu{
+      z-index:9999;  top:0; left:0; width:100%;   background:rgba(255,255,255,1);   z-index:10; box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.06), 0 0 0 rgba(0, 0, 0, 0.06);
+    }
+
+}
